@@ -18,7 +18,9 @@ The programs should insert a new member of the tennis club into the table called
 
 # Part 1
 
-Adapt a previous TKInter GUI Interface you have built to allow it to capture details about a new member of the Tennisclub database
+Adapt a previous TKInter GUI Interface you have built to allow it to capture details about a new member of the Tennisclub database as follows
+
+![alt]('TennisGUI.png')
 
 # Part 2
 
