@@ -24,10 +24,10 @@ Adapt a previous TKInter GUI Interface you have built to allow it to capture det
 
 # Part 2
 
-Take code from the insertTCMemberTest.py and add it to the GUI Class you have built in part 1 so that when the button is clicked the details of the new Tennis Club member which the user entered are inserted into the Member table of the TennisClub Database
+Take code from the insertTCMemberTest.py and add a function to the GUI Class you have built in part 1 so that when the button is clicked the details of the new Tennis Club member which the user entered are inserted into the Member table of the TennisClub Database
 
 # Part 3
 
-Add another button so that when that button is clicked all the members of the tennis club that are stored in the Member table of the tennisclub database are printed to the Screen
+Add another function so that when that button is clicked all the Members of the tennis club that are stored in the Member table of the tennisclub database are printed to the Screen
 
 
