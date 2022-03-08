@@ -16,3 +16,16 @@ Once this package is installed you can try the programs insertTCMemberTest.py an
 
 The programs should insert a new member of the tennis club into the table called member and print all the members of the club to the screen.
 
+#part 1
+
+Adapt a previous TKInter GUI Interface you have built to allow it to capture details about a new member of the Tennisclub database
+
+#part 2
+
+Take code from the insertTCMemberTest.py and add it to the GUI Class you have built in part 1 so that when the button is clicked the details of the new Tennis Club member which the user Entered are added to the TennisClub Database
+
+#part 3
+
+Add another button so that when that button is clicked all the members of the tennis club that are stored in the Member table of the tennisclub database are printed to the Screen
+
+
