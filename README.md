@@ -10,7 +10,9 @@ This driver is installed on Windows when you install Microsoft Access.
 
 In order to install pypyodc type the following line from within your Command Line Interface
 
+```
 pip install pypyodbc
+```
 
 Once this package is installed you can try the programs insertTCMemberTest.py and printAllMembers.py
 
