@@ -9,9 +9,10 @@ To to be able to use this example you must have Microsoft Access installed. The 
 This driver is installed on Windows when you install Microsoft Access.
 
 In order to install pypyodc type the following line from within your Command Line Interface
+(the -t . switches insures that pypyodbc is installed into the current folder)
 
 ```
-pip install pypyodbc
+pip install pypyodbc -t .
 ```
 
 Once this package is installed you can try the programs insertTCMemberTest.py and printAllMembers.py
