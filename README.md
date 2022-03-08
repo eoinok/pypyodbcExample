@@ -26,6 +26,8 @@ Adapt a previous TKInter GUI Interface you have built to allow it to capture det
 
 Make sure to add appropriate comments to your program at the beginning indicating the filename, a description, the date and your name.
 
+When you have completed Part 1 make sure to do a git add, git commit and git push.
+
 # Part 2
 
 Take code from the insertTCMemberTest.py and add a function to the GUI Class you have built in part 1 so that when the button is clicked the details of the new Tennis Club member which the user entered are inserted into the Member table of the TennisClub Database
@@ -38,9 +40,12 @@ Print the SQL to make sure it looks correct.
 
 When you are happy the SQL would work (you can test it in MSAccess), add the lines which will execute the SQL statements against the ODBC Connection.
 
+When you have completed Part 2 make sure to do a git add, git commit and git push.
+
 
 # Part 3
 
 Add another function so that when that button is clicked all the Members of the tennis club that are stored in the Member table of the tennisclub database are printed to the Screen
 
+When you have completed Part 3 make sure to do a git add, git commit and git push.
 
