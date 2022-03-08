@@ -24,9 +24,20 @@ Adapt a previous TKInter GUI Interface you have built to allow it to capture det
 
 ![alt text](TennisGUI.png)
 
+Make sure to add appropriate comments to your program at the beginning indicating the filename, a description, the date and your name.
+
 # Part 2
 
 Take code from the insertTCMemberTest.py and add a function to the GUI Class you have built in part 1 so that when the button is clicked the details of the new Tennis Club member which the user entered are inserted into the Member table of the TennisClub Database
+
+To do this you will need to call the get() method on each of the TKinter entry object to get the values entered by the user, assign the results of each of those get functions to appropriate simple python variables.
+
+Construct a valid SQL insert into statement by concatenating the the variables into the correct positions together with single quotes.
+
+Print the SQL to make sure it looks correct.
+
+When you are happy the SQL would work (you can test it in MSAccess), add the lines which will execute the SQL statements against the ODBC Connection.
+
 
 # Part 3
 
