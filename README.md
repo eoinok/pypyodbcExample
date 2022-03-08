@@ -1,4 +1,4 @@
-# pypyodbcExample
+# pypyodbc Example - Save and Retrieve data from an MSAccess Database
 
 This example allows you to both insert data into a Microsoft Access Database and retrieve Data from a Microsoft Access Database
 
